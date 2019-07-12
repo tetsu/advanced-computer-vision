@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# image data
+fruits-360/
+fruits-360-small/
+
+# Mac file
+.DS_Store
