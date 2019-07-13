@@ -17,11 +17,11 @@ mkdir('./fruits-360-small')
 
 
 classes = [
-    'Apple Golden 1',
-    'Avocado',
-    'Lemon',
-    'Mango',
-    'Kiwi',
+#     'Apple Golden 1',
+#     'Avocado',
+#     'Lemon',
+#     'Mango',
+#     'Kiwi',
     'Banana',
     'Strawberry',
     'Raspberry'
